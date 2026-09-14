@@ -10,6 +10,7 @@
 | 迷宫消消乐：破壁者 | Q 版魔幻风格的空间解谜三消游戏 | [Wall-Breaker](https://github.com/ai-h5-game/Wall-Breaker) |
 | 水果小丑牌 | 在水果矩阵中框选区域，搭配分数与倍率，挑战目标分数 | [fruit-game](https://github.com/ai-h5-game/fruit-game) |
 | 森林便利店 | 竖屏找物经营游戏，从货架挑选食材、合成商品并完成动物订单 | [feeding-animals](https://github.com/ai-h5-game/feeding-animals) |
+| 水之涌动 · Aqua Surge | 100关水流连线解谜，连接同色端点并填满棋盘，支持中英文 | [aqua-surge](https://github.com/ai-h5-game/aqua-surge) |
 
 > 游戏仓库目前为私有，仅获授权的账号可查看源码与项目文档。
 
