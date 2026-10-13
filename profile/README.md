@@ -12,7 +12,7 @@
 
 | 游戏 | 核心玩法 | 项目仓库 |
 | --- | --- | --- |
-| 全都吃光光！ · Eat ’Em All! | 多蛇线路规划，通过换头、吃果增长与伙伴让路清空水果 | `eat-em-all`（本地项目，仓库待发布） |
+| 全都吃光光！ · Eat ’Em All! | 300 关无墙多蛇线路规划，通过换头、吃果增长与伙伴让路清空水果 | [eat-em-all](https://github.com/ai-h5-game/eat-em-all) |
 | 绝对准度 · Exact Fire | 有限弹数的角度射击，利用镜面、分裂镜与黑洞规划弹道 | [exact-fire](https://github.com/ai-h5-game/exact-fire) |
 | 喵饮时光 · Purr & Pour | 旋转水管方块，绕过障碍，把清泉送到猫咪水碗 | [purr-and-pour](https://github.com/ai-h5-game/purr-and-pour) |
 | 喵然入梦 | 在拼布区域内移动小猫，消除行列冲突，让它们安稳入睡 | [sleep-cat](https://github.com/ai-h5-game/sleep-cat) |
